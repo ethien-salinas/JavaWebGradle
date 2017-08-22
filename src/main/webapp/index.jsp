@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+    Hola Mundo con Gradle y Tomcat 8
   </body>
 </html>
